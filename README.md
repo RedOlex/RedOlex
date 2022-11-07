@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedOlex
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
 - 📫 How to reach me just drop a mail (rahulyadav20@iitk.ac.in)
 
 <!---
